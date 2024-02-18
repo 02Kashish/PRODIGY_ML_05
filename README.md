@@ -1,1 +1,2 @@
 # food-classification-using-cnn
+This project presents a model for food recognition and calorie estimation from images. It utilizes deep learning and computer vision techniques to automate dietary monitoring. The methodology includes data collection, model training, calorie estimation, and evaluation. Results demonstrate high accuracy in recognizing food items and estimating their calorie content. Overall, the model empowers users to track dietary intake and make informed food choices for healthier lifestyles.
